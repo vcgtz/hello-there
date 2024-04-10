@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "hello_there"
+name = "hello_there_iv"
 version = "0.0.1"
 authors = [
   { name="Vicente Gutiérrez", email="vicente@dotruntime.com" },
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/vcgtz/hello-there"
-Issues = "https://github.com/vcgtz/hello-there/issues"
+Homepage = "https://github.com/vcgtz/hello-there-iv"
+Issues = "https://github.com/vcgtz/hello-there-iv/issues"
