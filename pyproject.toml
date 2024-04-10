@@ -3,12 +3,12 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
+name = "hello_there"
 version = "0.0.1"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="Vicente Gutiérrez", email="vicente@dotruntime.com" },
 ]
-description = "A small example package"
+description = "A simple package for testing purposes"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/vcgtz/hello-there"
+Issues = "https://github.com/vcgtz/hello-there/issues"
